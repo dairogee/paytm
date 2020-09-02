@@ -1,0 +1,2 @@
+testing git diff
+modifying file2 again
