@@ -1,1 +1,3 @@
 modifying data
+Testing git stash 1
+Another testing git stash 2
