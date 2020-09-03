@@ -1,5 +1,2 @@
 <<<<<<< HEAD
 modifying file6 from branch1
-=======
-modifing file 6 form branch2
->>>>>>> branch2
