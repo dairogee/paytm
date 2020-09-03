@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 modifying file6 from branch1
